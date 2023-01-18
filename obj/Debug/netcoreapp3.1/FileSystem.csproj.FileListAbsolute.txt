@@ -1,0 +1,16 @@
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/bin/Debug/netcoreapp3.1/FileSystem
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/bin/Debug/netcoreapp3.1/FileSystem.deps.json
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/bin/Debug/netcoreapp3.1/FileSystem.runtimeconfig.json
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/bin/Debug/netcoreapp3.1/FileSystem.runtimeconfig.dev.json
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/bin/Debug/netcoreapp3.1/FileSystem.dll
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/bin/Debug/netcoreapp3.1/FileSystem.pdb
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/obj/Debug/netcoreapp3.1/FileSystem.csproj.AssemblyReference.cache
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/obj/Debug/netcoreapp3.1/FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/obj/Debug/netcoreapp3.1/FileSystem.AssemblyInfoInputs.cache
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/obj/Debug/netcoreapp3.1/FileSystem.AssemblyInfo.cs
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/obj/Debug/netcoreapp3.1/FileSystem.csproj.CoreCompileInputs.cache
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/obj/Debug/netcoreapp3.1/FileSystem.dll
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/obj/Debug/netcoreapp3.1/FileSystem.pdb
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/obj/Debug/netcoreapp3.1/FileSystem.genruntimeconfig.cache
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ihormolchan/Desktop/C#_Projects/FileSystem/FileSystem/obj/Debug/netcoreapp3.1/FileSystem.csproj.CopyComplete
